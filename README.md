@@ -6,6 +6,3 @@ Here's some information about me:
 
 - Personality Typology: ENTJ 3w2 so/sp 351 RCOAI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
-- Age: 18
-
-[![Sabre's Github Stats](https://github-readme-stats.vercel.app/api?username=soaztiel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
