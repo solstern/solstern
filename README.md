@@ -8,4 +8,4 @@ Here's some information about me:
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
 - Age: 18
 
-[![Sabre's Github Stats](https://github-readme-stats.vercel.app/api?username=dukesabre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sabre's Github Stats](https://github-readme-stats.vercel.app/api?username=soaztiel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
