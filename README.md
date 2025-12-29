@@ -4,5 +4,5 @@ Hi! I'm Sabre, a rookie developer currently learning and gaining mastery of codi
 
 Here's some information about me:
 
-- Personality Typology: ENTJ 3w2 so/sp 351 RCOAI
+- Personality Typology: ENTJ 3w2 sp/so 351 RCOAI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
