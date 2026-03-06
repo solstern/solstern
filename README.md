@@ -7,4 +7,4 @@ Here's some information about me:
 - Personality Typology: INTJ 5w4 sp/sx 594 RCOAI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
 
-Here's my Discord: [soaztiel](https://discord.com/users/1176237624223092828)
+Here's my Discord: [solstern](https://discord.com/users/1176237624223092828)
