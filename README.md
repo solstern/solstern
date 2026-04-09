@@ -4,7 +4,7 @@ Hi, I'm Sylvia! I'm a rookie developer currently learning and gaining mastery of
 
 Here's some information about me:
 
-- Personality Typology: INTJ 5w4 sx/sp 514 RLOAI
+- Personality Typology: INTJ 6w5 so/sp 641 RLOAI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
 
 Here's my [Discord](https://discord.com/users/1176237624223092828)!
